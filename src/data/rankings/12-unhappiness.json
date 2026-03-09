@@ -65,6 +65,15 @@
     },
     {
       "rank": 7,
+      "name": "タンザニア",
+      "value": "3.702",
+      "numericValue": 3.702,
+      "description": "貧困・教育機会不足・医療アクセスの困難",
+      "country": "タンザニア",
+      "flag": "🇹🇿"
+    },
+    {
+      "rank": 8,
       "name": "マラウイ",
       "value": "3.750",
       "numericValue": 3.75,
@@ -73,22 +82,13 @@
       "flag": "🇲🇼"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "エスワティニ",
       "value": "3.889",
       "numericValue": 3.889,
       "description": "HIV感染率世界最高・経済格差・専制政治への不満",
       "country": "エスワティニ",
       "flag": "🇸🇿"
-    },
-    {
-      "rank": 9,
-      "name": "タンザニア",
-      "value": "3.702",
-      "numericValue": 3.702,
-      "description": "貧困・教育機会不足・医療アクセスの困難",
-      "country": "タンザニア",
-      "flag": "🇹🇿"
     },
     {
       "rank": 10,

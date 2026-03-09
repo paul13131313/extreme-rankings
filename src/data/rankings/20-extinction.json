@@ -65,6 +65,15 @@
     },
     {
       "rank": 7,
+      "name": "コロンビア",
+      "value": "540種",
+      "numericValue": 540,
+      "description": "南米北部の生物多様性ホットスポットで違法伐採が主な脅威",
+      "country": "コロンビア",
+      "flag": "🇨🇴"
+    },
+    {
+      "rank": 8,
       "name": "ブラジル",
       "value": "538種",
       "numericValue": 538,
@@ -73,7 +82,7 @@
       "flag": "🇧🇷"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "ペルー",
       "value": "507種",
       "numericValue": 507,
@@ -82,22 +91,13 @@
       "flag": "🇵🇪"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "オーストラリア",
       "value": "506種",
       "numericValue": 506,
       "description": "独特な島嶼生態系を持つが山火事と外来種により固有種が危機",
       "country": "オーストラリア",
       "flag": "🇦🇺"
-    },
-    {
-      "rank": 10,
-      "name": "コロンビア",
-      "value": "540種",
-      "numericValue": 540,
-      "description": "南米北部の生物多様性ホットスポットで違法伐採が主な脅威",
-      "country": "コロンビア",
-      "flag": "🇨🇴"
     }
   ]
 }
