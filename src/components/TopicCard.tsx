@@ -14,7 +14,7 @@ export default function TopicCard({ topic, index, onClick }: Props) {
     <div
       ref={ref}
       onClick={onClick}
-      className="relative group cursor-pointer p-5 md:p-6 transition-all duration-300"
+      className="relative group cursor-pointer p-6 md:p-8 transition-all duration-300"
       style={{
         background: '#1a1a1a',
         border: '1px solid #222',
@@ -46,10 +46,10 @@ export default function TopicCard({ topic, index, onClick }: Props) {
           </span>
         </div>
 
-        <div className="text-3xl mb-4">{topic.emoji}</div>
+        <div className="text-4xl mb-5">{topic.emoji}</div>
 
         <p
-          className="text-sm leading-relaxed line-clamp-2"
+          className="text-base md:text-lg leading-relaxed line-clamp-2"
           style={{ fontFamily: "'Noto Sans JP', sans-serif", fontWeight: 700, color: '#EEEEEE' }}
         >
           {topic.question}

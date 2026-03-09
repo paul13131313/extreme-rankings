@@ -15,7 +15,7 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
 
   return (
     <div
-      className="py-6 transition-all duration-700"
+      className="py-5 md:py-7 transition-all duration-700"
       style={{
         opacity: isVisible ? 1 : 0,
         transform: isVisible ? 'translateX(0)' : 'translateX(-30px)',
@@ -23,13 +23,13 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
         borderBottom: '1px solid #1e1e1e',
       }}
     >
-      <div className="flex items-start gap-5">
+      <div className="flex items-start gap-5 md:gap-8">
         <div
-          className="shrink-0 w-10 text-right"
+          className="shrink-0 w-12 text-right"
           style={{
             fontFamily: "'JetBrains Mono', monospace",
             fontWeight: 700,
-            fontSize: isTopThree ? '1.25rem' : '1rem',
+            fontSize: isTopThree ? '1.5rem' : '1.125rem',
             color: isTopThree ? '#FD551D' : '#444',
           }}
         >
@@ -37,10 +37,10 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
         </div>
 
         <div className="flex-1 min-w-0">
-          <div className="flex items-baseline gap-3 mb-2 flex-wrap">
-            <span className="text-base">{item.flag}</span>
+          <div className="flex items-baseline gap-3 md:gap-4 mb-3 flex-wrap">
+            <span className="text-lg">{item.flag}</span>
             <span
-              className={isTopThree ? 'text-lg' : 'text-base'}
+              className={isTopThree ? 'text-xl md:text-2xl' : 'text-lg md:text-xl'}
               style={{
                 fontFamily: "'Noto Sans JP', sans-serif",
                 fontWeight: isTopThree ? 700 : 400,
@@ -50,7 +50,7 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
               {item.name}
             </span>
             <span
-              className="text-sm shrink-0"
+              className="text-base md:text-lg shrink-0"
               style={{
                 fontFamily: "'JetBrains Mono', monospace",
                 fontWeight: 700,
@@ -62,7 +62,7 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
           </div>
 
           {percentage > 0 && (
-            <div className="h-[4px] overflow-hidden mb-2" style={{ background: '#1e1e1e' }}>
+            <div className="h-[5px] overflow-hidden mb-3" style={{ background: '#1e1e1e' }}>
               <div
                 className="h-full transition-all duration-1000 ease-out"
                 style={{
@@ -75,7 +75,7 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
           )}
 
           <p
-            className="text-sm leading-relaxed"
+            className="text-sm md:text-base leading-relaxed"
             style={{ fontFamily: "'Noto Sans JP', sans-serif", color: '#555' }}
           >
             {item.description}

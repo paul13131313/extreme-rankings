@@ -8,7 +8,7 @@ interface Props {
 
 export default function TopicGrid({ topics, onSelect }: Props) {
   return (
-    <section className="max-w-7xl mx-auto px-4 md:px-8 py-12">
+    <section className="w-full px-6 md:px-12 lg:px-20 py-12">
       <div className="flex items-center gap-4 mb-10">
         <div className="w-8 h-[2px]" style={{ background: '#FD551D' }} />
         <p
@@ -18,7 +18,7 @@ export default function TopicGrid({ topics, onSelect }: Props) {
           All Topics ({topics.length})
         </p>
       </div>
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-[1px]" style={{ background: '#222' }}>
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 md:gap-4">
         {topics.map((topic, i) => (
           <TopicCard
             key={topic.id}

@@ -21,7 +21,7 @@ export default function RankingModal({ topic, onClose }: Props) {
   }, [onClose])
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 md:p-8">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 md:p-6">
       <div
         className="absolute inset-0 backdrop-blur-sm"
         style={{ background: 'rgba(20, 19, 20, 0.9)' }}
@@ -29,28 +29,28 @@ export default function RankingModal({ topic, onClose }: Props) {
       />
 
       <div
-        className="relative w-full h-full md:h-auto md:max-h-[90vh] md:max-w-4xl lg:max-w-5xl overflow-y-auto"
+        className="relative w-full h-full md:h-auto md:max-h-[90vh] md:max-w-5xl lg:max-w-6xl overflow-y-auto"
         style={{
           background: '#141314',
           border: '1px solid #222',
         }}
       >
         <div
-          className="sticky top-0 z-10 p-5 md:p-8 flex justify-between items-start"
+          className="sticky top-0 z-10 p-6 md:p-10 pb-4 md:pb-6 flex justify-between items-start"
           style={{ background: 'linear-gradient(to bottom, #141314 85%, transparent)' }}
         >
           <div>
             <div className="flex items-center gap-3 mb-3">
-              <span className="text-2xl">{topic.emoji}</span>
+              <span className="text-3xl">{topic.emoji}</span>
               <span
-                className="text-[10px] tracking-[0.2em] uppercase"
+                className="text-[11px] tracking-[0.2em] uppercase"
                 style={{ fontFamily: "'JetBrains Mono', monospace", color: '#FD551D' }}
               >
                 {topic.category}
               </span>
             </div>
             <h2
-              className="text-2xl md:text-3xl leading-tight"
+              className="text-2xl md:text-4xl leading-tight"
               style={{ fontFamily: "'Noto Sans JP', sans-serif", fontWeight: 700, color: '#EEEEEE' }}
             >
               {topic.question}
@@ -78,9 +78,9 @@ export default function RankingModal({ topic, onClose }: Props) {
           </button>
         </div>
 
-        <div className="px-5 md:px-8">
+        <div className="px-6 md:px-10">
           <div
-            className="flex items-center gap-3 mb-6 text-[11px]"
+            className="flex items-center gap-3 mb-8 text-xs"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#444' }}
           >
             <span>UNIT: {topic.unit}</span>
@@ -91,9 +91,9 @@ export default function RankingModal({ topic, onClose }: Props) {
           <RankingList items={topic.items} />
         </div>
 
-        <div className="px-5 md:px-8 py-6 mt-4" style={{ borderTop: '1px solid #1e1e1e' }}>
+        <div className="px-6 md:px-10 py-8 mt-6" style={{ borderTop: '1px solid #1e1e1e' }}>
           <p
-            className="text-[11px]"
+            className="text-xs"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#333' }}
           >
             SOURCE: {topic.source}
