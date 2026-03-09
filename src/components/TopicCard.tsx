@@ -14,7 +14,7 @@ export default function TopicCard({ topic, index, onClick }: Props) {
     <div
       ref={ref}
       onClick={onClick}
-      className="relative group cursor-pointer p-6 md:p-8 transition-all duration-300"
+      className="relative group cursor-pointer p-7 md:p-9 transition-all duration-300"
       style={{
         background: '#1a1a1a',
         border: '1px solid #222',
@@ -31,7 +31,7 @@ export default function TopicCard({ topic, index, onClick }: Props) {
       }}
     >
       <div className="relative z-10">
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center justify-between mb-6">
           <span
             className="text-[10px] tracking-[0.2em] uppercase"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#FD551D' }}
@@ -46,7 +46,7 @@ export default function TopicCard({ topic, index, onClick }: Props) {
           </span>
         </div>
 
-        <div className="text-4xl mb-5">{topic.emoji}</div>
+        <div className="text-4xl mb-6">{topic.emoji}</div>
 
         <p
           className="text-base md:text-lg leading-relaxed line-clamp-2"
@@ -55,7 +55,7 @@ export default function TopicCard({ topic, index, onClick }: Props) {
           {topic.question}
         </p>
 
-        <div className="mt-4 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+        <div className="mt-6 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <span
             className="text-[10px] uppercase tracking-wider"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#FD551D' }}

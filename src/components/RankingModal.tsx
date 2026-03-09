@@ -36,11 +36,11 @@ export default function RankingModal({ topic, onClose }: Props) {
         }}
       >
         <div
-          className="sticky top-0 z-10 p-6 md:p-10 pb-4 md:pb-6 flex justify-between items-start"
+          className="sticky top-0 z-10 p-8 md:p-12 pb-6 md:pb-8 flex justify-between items-start"
           style={{ background: 'linear-gradient(to bottom, #141314 85%, transparent)' }}
         >
           <div>
-            <div className="flex items-center gap-3 mb-3">
+            <div className="flex items-center gap-4 mb-5">
               <span className="text-3xl">{topic.emoji}</span>
               <span
                 className="text-[11px] tracking-[0.2em] uppercase"
@@ -50,7 +50,7 @@ export default function RankingModal({ topic, onClose }: Props) {
               </span>
             </div>
             <h2
-              className="text-2xl md:text-4xl leading-tight"
+              className="text-2xl md:text-4xl leading-snug"
               style={{ fontFamily: "'Noto Sans JP', sans-serif", fontWeight: 700, color: '#EEEEEE' }}
             >
               {topic.question}
@@ -78,9 +78,9 @@ export default function RankingModal({ topic, onClose }: Props) {
           </button>
         </div>
 
-        <div className="px-6 md:px-10">
+        <div className="px-8 md:px-12">
           <div
-            className="flex items-center gap-3 mb-8 text-xs"
+            className="flex items-center gap-4 mb-10 text-xs"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#444' }}
           >
             <span>UNIT: {topic.unit}</span>
@@ -91,7 +91,7 @@ export default function RankingModal({ topic, onClose }: Props) {
           <RankingList items={topic.items} />
         </div>
 
-        <div className="px-6 md:px-10 py-8 mt-6" style={{ borderTop: '1px solid #1e1e1e' }}>
+        <div className="px-8 md:px-12 py-10 mt-8" style={{ borderTop: '1px solid #1e1e1e' }}>
           <p
             className="text-xs"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#333' }}
