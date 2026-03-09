@@ -21,7 +21,7 @@ export default function RankingModal({ topic, onClose }: Props) {
   }, [onClose])
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 md:p-6">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 md:p-8">
       <div
         className="absolute inset-0 backdrop-blur-sm"
         style={{ background: 'rgba(20, 19, 20, 0.9)' }}
@@ -36,11 +36,11 @@ export default function RankingModal({ topic, onClose }: Props) {
         }}
       >
         <div
-          className="sticky top-0 z-10 p-8 md:p-12 pb-6 md:pb-8 flex justify-between items-start"
+          className="sticky top-0 z-10 px-10 md:px-16 pt-10 md:pt-14 pb-8 md:pb-10 flex justify-between items-start"
           style={{ background: 'linear-gradient(to bottom, #141314 85%, transparent)' }}
         >
           <div>
-            <div className="flex items-center gap-4 mb-5">
+            <div className="flex items-center gap-5 mb-6">
               <span className="text-3xl">{topic.emoji}</span>
               <span
                 className="text-[11px] tracking-[0.2em] uppercase"
@@ -78,9 +78,9 @@ export default function RankingModal({ topic, onClose }: Props) {
           </button>
         </div>
 
-        <div className="px-8 md:px-12">
+        <div className="px-10 md:px-16">
           <div
-            className="flex items-center gap-4 mb-10 text-xs"
+            className="flex items-center gap-5 mb-12 text-xs"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#444' }}
           >
             <span>UNIT: {topic.unit}</span>
@@ -91,7 +91,7 @@ export default function RankingModal({ topic, onClose }: Props) {
           <RankingList items={topic.items} />
         </div>
 
-        <div className="px-8 md:px-12 py-10 mt-8" style={{ borderTop: '1px solid #1e1e1e' }}>
+        <div className="px-10 md:px-16 py-12 mt-10" style={{ borderTop: '1px solid #1e1e1e' }}>
           <p
             className="text-xs"
             style={{ fontFamily: "'JetBrains Mono', monospace", color: '#333' }}
