@@ -15,20 +15,21 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
 
   return (
     <div
-      className="py-4 transition-all duration-700"
+      className="py-6 transition-all duration-700"
       style={{
         opacity: isVisible ? 1 : 0,
         transform: isVisible ? 'translateX(0)' : 'translateX(-30px)',
         transitionDelay: `${delay}ms`,
+        borderBottom: '1px solid #1e1e1e',
       }}
     >
-      <div className="flex items-start gap-4">
+      <div className="flex items-start gap-5">
         <div
-          className="shrink-0 w-8 text-right"
+          className="shrink-0 w-10 text-right"
           style={{
             fontFamily: "'JetBrains Mono', monospace",
             fontWeight: 700,
-            fontSize: isTopThree ? '1rem' : '0.8rem',
+            fontSize: isTopThree ? '1.25rem' : '1rem',
             color: isTopThree ? '#FD551D' : '#444',
           }}
         >
@@ -36,10 +37,10 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
         </div>
 
         <div className="flex-1 min-w-0">
-          <div className="flex items-baseline gap-2 mb-1 flex-wrap">
-            <span className="text-sm">{item.flag}</span>
+          <div className="flex items-baseline gap-3 mb-2 flex-wrap">
+            <span className="text-base">{item.flag}</span>
             <span
-              className={isTopThree ? 'text-base' : 'text-sm'}
+              className={isTopThree ? 'text-lg' : 'text-base'}
               style={{
                 fontFamily: "'Noto Sans JP', sans-serif",
                 fontWeight: isTopThree ? 700 : 400,
@@ -49,7 +50,7 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
               {item.name}
             </span>
             <span
-              className="text-xs shrink-0"
+              className="text-sm shrink-0"
               style={{
                 fontFamily: "'JetBrains Mono', monospace",
                 fontWeight: 700,
@@ -61,7 +62,7 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
           </div>
 
           {percentage > 0 && (
-            <div className="h-[3px] overflow-hidden mb-2" style={{ background: '#1e1e1e' }}>
+            <div className="h-[4px] overflow-hidden mb-2" style={{ background: '#1e1e1e' }}>
               <div
                 className="h-full transition-all duration-1000 ease-out"
                 style={{
@@ -74,7 +75,7 @@ export default function RankingBar({ item, maxValue, isVisible, delay }: Props) 
           )}
 
           <p
-            className="text-xs leading-relaxed"
+            className="text-sm leading-relaxed"
             style={{ fontFamily: "'Noto Sans JP', sans-serif", color: '#555' }}
           >
             {item.description}

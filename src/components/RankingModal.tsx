@@ -29,7 +29,7 @@ export default function RankingModal({ topic, onClose }: Props) {
       />
 
       <div
-        className="relative w-full h-full md:h-auto md:max-h-[90vh] md:max-w-3xl overflow-y-auto"
+        className="relative w-full h-full md:h-auto md:max-h-[90vh] md:max-w-4xl lg:max-w-5xl overflow-y-auto"
         style={{
           background: '#141314',
           border: '1px solid #222',
@@ -50,7 +50,7 @@ export default function RankingModal({ topic, onClose }: Props) {
               </span>
             </div>
             <h2
-              className="text-xl md:text-2xl leading-tight"
+              className="text-2xl md:text-3xl leading-tight"
               style={{ fontFamily: "'Noto Sans JP', sans-serif", fontWeight: 700, color: '#EEEEEE' }}
             >
               {topic.question}

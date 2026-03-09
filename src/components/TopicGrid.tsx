@@ -8,7 +8,7 @@ interface Props {
 
 export default function TopicGrid({ topics, onSelect }: Props) {
   return (
-    <section className="max-w-6xl mx-auto px-4 py-12">
+    <section className="max-w-7xl mx-auto px-4 md:px-8 py-12">
       <div className="flex items-center gap-4 mb-10">
         <div className="w-8 h-[2px]" style={{ background: '#FD551D' }} />
         <p
