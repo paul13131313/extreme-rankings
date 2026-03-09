@@ -1,0 +1,103 @@
+{
+  "id": "longevity",
+  "number": 6,
+  "question": "この世界で最も長生きする国",
+  "shortTitle": "長寿国",
+  "category": "長寿",
+  "emoji": "🧓",
+  "unit": "平均寿命（歳）",
+  "source": "World Health Organization (WHO) Global Health Observatory",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "モナコ",
+      "value": "89.4歳",
+      "numericValue": 89.4,
+      "description": "世界最高の平均寿命を誇る地中海の小国",
+      "country": "モナコ",
+      "flag": "🇲🇨"
+    },
+    {
+      "rank": 2,
+      "name": "日本",
+      "value": "84.8歳",
+      "numericValue": 84.8,
+      "description": "世界屈指の長寿国として知られる東アジアの島国",
+      "country": "日本",
+      "flag": "🇯🇵"
+    },
+    {
+      "rank": 3,
+      "name": "シンガポール",
+      "value": "84.3歳",
+      "numericValue": 84.3,
+      "description": "医療制度が充実した東南アジアの都市国家",
+      "country": "シンガポール",
+      "flag": "🇸🇬"
+    },
+    {
+      "rank": 4,
+      "name": "マカオ",
+      "value": "84.2歳",
+      "numericValue": 84.2,
+      "description": "中国の特別行政区で高い生活水準を維持",
+      "country": "マカオ",
+      "flag": "🇲🇴"
+    },
+    {
+      "rank": 5,
+      "name": "サンマリノ",
+      "value": "84.0歳",
+      "numericValue": 84,
+      "description": "イタリア半島内の世界最古の共和国",
+      "country": "サンマリノ",
+      "flag": "🇸🇲"
+    },
+    {
+      "rank": 6,
+      "name": "アンドラ",
+      "value": "83.7歳",
+      "numericValue": 83.7,
+      "description": "ピレネー山脈に位置する小さな公国",
+      "country": "アンドラ",
+      "flag": "🇦🇩"
+    },
+    {
+      "rank": 7,
+      "name": "香港",
+      "value": "83.6歳",
+      "numericValue": 83.6,
+      "description": "アジアの金融ハブで高い医療水準を誇る",
+      "country": "香港",
+      "flag": "🇭🇰"
+    },
+    {
+      "rank": 8,
+      "name": "スイス",
+      "value": "83.4歳",
+      "numericValue": 83.4,
+      "description": "優れた医療制度と生活環境を持つ中央ヨーロッパの国",
+      "country": "スイス",
+      "flag": "🇨🇭"
+    },
+    {
+      "rank": 9,
+      "name": "韓国",
+      "value": "83.2歳",
+      "numericValue": 83.2,
+      "description": "急速な経済発展と医療技術向上を遂げた東アジアの国",
+      "country": "韓国",
+      "flag": "🇰🇷"
+    },
+    {
+      "rank": 10,
+      "name": "イタリア",
+      "value": "83.1歳",
+      "numericValue": 83.1,
+      "description": "地中海式食生活で知られる南ヨーロッパの国",
+      "country": "イタリア",
+      "flag": "🇮🇹"
+    }
+  ]
+}

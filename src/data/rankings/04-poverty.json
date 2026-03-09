@@ -1,0 +1,103 @@
+{
+  "id": "poverty",
+  "number": 4,
+  "question": "この世界で最も稼げない職業",
+  "shortTitle": "低収入な職業",
+  "category": "貧困",
+  "emoji": "😢",
+  "unit": "平均年収（USD）",
+  "source": "World Bank, ILO Global Wage Report",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "農業労働者（サブサハラアフリカ）",
+      "value": "$380",
+      "numericValue": 380,
+      "description": "アフリカの小規模農業従事者の年収",
+      "country": "国際",
+      "flag": "🌾"
+    },
+    {
+      "rank": 2,
+      "name": "縫製工場労働者（バングラデシュ）",
+      "value": "$420",
+      "numericValue": 420,
+      "description": "アパレル工場の最低賃金労働者",
+      "country": "バングラデシュ",
+      "flag": "🇧🇩"
+    },
+    {
+      "rank": 3,
+      "name": "家事手伝い（インド）",
+      "value": "$480",
+      "numericValue": 480,
+      "description": "都市部の住み込み家政婦の年収",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 4,
+      "name": "日雇い労働者（カンボジア）",
+      "value": "$520",
+      "numericValue": 520,
+      "description": "建設現場の不定期労働者",
+      "country": "カンボジア",
+      "flag": "🇰🇭"
+    },
+    {
+      "rank": 5,
+      "name": "路上清掃員（ネパール）",
+      "value": "$580",
+      "numericValue": 580,
+      "description": "都市部の公共清掃作業員",
+      "country": "ネパール",
+      "flag": "🇳🇵"
+    },
+    {
+      "rank": 6,
+      "name": "露天商（マダガスカル）",
+      "value": "$640",
+      "numericValue": 640,
+      "description": "小規模な路上販売業者",
+      "country": "マダガスカル",
+      "flag": "🇲🇬"
+    },
+    {
+      "rank": 7,
+      "name": "リキシャドライバー（インド）",
+      "value": "$720",
+      "numericValue": 720,
+      "description": "人力車運転手の平均年収",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 8,
+      "name": "廃品回収業者（フィリピン）",
+      "value": "$800",
+      "numericValue": 800,
+      "description": "ゴミ処理場での資源回収作業",
+      "country": "フィリピン",
+      "flag": "🇵🇭"
+    },
+    {
+      "rank": 9,
+      "name": "レンガ工場労働者（パキスタン）",
+      "value": "$880",
+      "numericValue": 880,
+      "description": "手作業によるレンガ製造従事者",
+      "country": "パキスタン",
+      "flag": "🇵🇰"
+    },
+    {
+      "rank": 10,
+      "name": "漁業労働者（スリランカ）",
+      "value": "$960",
+      "numericValue": 960,
+      "description": "小規模漁船の乗組員",
+      "country": "スリランカ",
+      "flag": "🇱🇰"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "space",
+  "number": 11,
+  "question": "この世界で最も宇宙ゴミを出している国",
+  "shortTitle": "宇宙ゴミ排出国",
+  "category": "宇宙",
+  "emoji": "🛰️",
+  "unit": "追跡可能なデブリ数",
+  "source": "ESA Space Debris Office, NASA Orbital Debris Program",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "アメリカ合衆国",
+      "value": "約6,500個",
+      "numericValue": 6500,
+      "description": "軍事・商業衛星の打ち上げ数が最多で宇宙デブリも最大",
+      "country": "アメリカ合衆国",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 2,
+      "name": "ロシア",
+      "value": "約4,800個",
+      "numericValue": 4800,
+      "description": "ソ連時代から続く宇宙開発により大量のデブリを蓄積",
+      "country": "ロシア",
+      "flag": "🇷🇺"
+    },
+    {
+      "rank": 3,
+      "name": "中国",
+      "value": "約4,200個",
+      "numericValue": 4200,
+      "description": "急速な宇宙開発進展と衛星破壊実験によりデブリ増加",
+      "country": "中国",
+      "flag": "🇨🇳"
+    },
+    {
+      "rank": 4,
+      "name": "フランス",
+      "value": "約850個",
+      "numericValue": 850,
+      "description": "ESAとの協力によるアリアンロケット打ち上げでデブリ蓄積",
+      "country": "フランス",
+      "flag": "🇫🇷"
+    },
+    {
+      "rank": 5,
+      "name": "インド",
+      "value": "約650個",
+      "numericValue": 650,
+      "description": "宇宙開発の発展と衛星破壊実験によりデブリが増加",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 6,
+      "name": "日本",
+      "value": "約420個",
+      "numericValue": 420,
+      "description": "H-IIAロケットや商業衛星打ち上げによるデブリ",
+      "country": "日本",
+      "flag": "🇯🇵"
+    },
+    {
+      "rank": 7,
+      "name": "イギリス",
+      "value": "約350個",
+      "numericValue": 350,
+      "description": "通信・観測衛星の打ち上げと運用によるデブリ蓄積",
+      "country": "イギリス",
+      "flag": "🇬🇧"
+    },
+    {
+      "rank": 8,
+      "name": "カナダ",
+      "value": "約280個",
+      "numericValue": 280,
+      "description": "通信衛星や地球観測衛星の運用によるデブリ発生",
+      "country": "カナダ",
+      "flag": "🇨🇦"
+    },
+    {
+      "rank": 9,
+      "name": "ドイツ",
+      "value": "約220個",
+      "numericValue": 220,
+      "description": "ESAでの協力と独自衛星開発によるデブリ蓄積",
+      "country": "ドイツ",
+      "flag": "🇩🇪"
+    },
+    {
+      "rank": 10,
+      "name": "イタリア",
+      "value": "約180個",
+      "numericValue": 180,
+      "description": "ESA参加国として衛星打ち上げによりデブリを生成",
+      "country": "イタリア",
+      "flag": "🇮🇹"
+    }
+  ]
+}

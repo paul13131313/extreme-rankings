@@ -1,0 +1,103 @@
+{
+  "id": "education",
+  "number": 15,
+  "question": "この世界で最も大学進学率が低い国",
+  "shortTitle": "低進学率国",
+  "category": "教育",
+  "emoji": "📚",
+  "unit": "大学進学率（%）",
+  "source": "UNESCO Institute for Statistics, World Bank Education Data",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "ニジェール",
+      "value": "1.2%",
+      "numericValue": 1.2,
+      "description": "サハラ砂漠南部の内陸国で教育インフラが極めて限定的",
+      "country": "ニジェール",
+      "flag": "🇳🇪"
+    },
+    {
+      "rank": 2,
+      "name": "チャド",
+      "value": "2.1%",
+      "numericValue": 2.1,
+      "description": "中央アフリカの内陸国で高等教育機関が少ない",
+      "country": "チャド",
+      "flag": "🇹🇩"
+    },
+    {
+      "rank": 3,
+      "name": "中央アフリカ共和国",
+      "value": "2.8%",
+      "numericValue": 2.8,
+      "description": "政情不安定で教育システムが十分に機能していない",
+      "country": "中央アフリカ共和国",
+      "flag": "🇨🇫"
+    },
+    {
+      "rank": 4,
+      "name": "ブルキナファソ",
+      "value": "3.4%",
+      "numericValue": 3.4,
+      "description": "西アフリカの内陸国で教育資源が不足している",
+      "country": "ブルキナファソ",
+      "flag": "🇧🇫"
+    },
+    {
+      "rank": 5,
+      "name": "マリ",
+      "value": "3.9%",
+      "numericValue": 3.9,
+      "description": "サハラ砂漠南部に位置し教育機会が限られている",
+      "country": "マリ",
+      "flag": "🇲🇱"
+    },
+    {
+      "rank": 6,
+      "name": "エリトリア",
+      "value": "4.2%",
+      "numericValue": 4.2,
+      "description": "東アフリカの小国で高等教育機関が極めて少ない",
+      "country": "エリトリア",
+      "flag": "🇪🇷"
+    },
+    {
+      "rank": 7,
+      "name": "マダガスカル",
+      "value": "4.7%",
+      "numericValue": 4.7,
+      "description": "インド洋の島国で経済的困難により進学機会が制限",
+      "country": "マダガスカル",
+      "flag": "🇲🇬"
+    },
+    {
+      "rank": 8,
+      "name": "ギニアビサウ",
+      "value": "5.1%",
+      "numericValue": 5.1,
+      "description": "西アフリカの小国で教育インフラが不十分",
+      "country": "ギニアビサウ",
+      "flag": "🇬🇼"
+    },
+    {
+      "rank": 9,
+      "name": "モザンビーク",
+      "value": "5.8%",
+      "numericValue": 5.8,
+      "description": "東南アフリカで内戦の影響で教育システムが遅れている",
+      "country": "モザンビーク",
+      "flag": "🇲🇿"
+    },
+    {
+      "rank": 10,
+      "name": "アフガニスタン",
+      "value": "6.2%",
+      "numericValue": 6.2,
+      "description": "長期的な紛争により教育制度が大きく影響を受けている",
+      "country": "アフガニスタン",
+      "flag": "🇦🇫"
+    }
+  ]
+}

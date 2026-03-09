@@ -1,0 +1,103 @@
+{
+  "id": "sleep",
+  "number": 7,
+  "question": "この世界で最も寝ていない国",
+  "shortTitle": "睡眠不足な国",
+  "category": "睡眠",
+  "emoji": "😴",
+  "unit": "平均睡眠時間（時間）",
+  "source": "Sleep Cycle App Global Sleep Report",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "シンガポール",
+      "value": "6.32時間",
+      "numericValue": 6.32,
+      "description": "経済活動が活発で労働時間が長く、睡眠時間が最も短い",
+      "country": "シンガポール",
+      "flag": "🇸🇬"
+    },
+    {
+      "rank": 2,
+      "name": "日本",
+      "value": "6.35時間",
+      "numericValue": 6.35,
+      "description": "長時間労働と通勤時間の長さが睡眠時間を圧迫",
+      "country": "日本",
+      "flag": "🇯🇵"
+    },
+    {
+      "rank": 3,
+      "name": "韓国",
+      "value": "6.41時間",
+      "numericValue": 6.41,
+      "description": "激しい競争社会と夜型文化が睡眠不足を招く",
+      "country": "韓国",
+      "flag": "🇰🇷"
+    },
+    {
+      "rank": 4,
+      "name": "サウジアラビア",
+      "value": "6.46時間",
+      "numericValue": 6.46,
+      "description": "夜型の社会活動と高温気候が睡眠パターンに影響",
+      "country": "サウジアラビア",
+      "flag": "🇸🇦"
+    },
+    {
+      "rank": 5,
+      "name": "フィリピン",
+      "value": "6.50時間",
+      "numericValue": 6.5,
+      "description": "経済成長に伴う労働時間の増加と都市化の影響",
+      "country": "フィリピン",
+      "flag": "🇵🇭"
+    },
+    {
+      "rank": 6,
+      "name": "マレーシア",
+      "value": "6.54時間",
+      "numericValue": 6.54,
+      "description": "多様な文化と経済活動により夜型ライフスタイル",
+      "country": "マレーシア",
+      "flag": "🇲🇾"
+    },
+    {
+      "rank": 7,
+      "name": "エジプト",
+      "value": "6.58時間",
+      "numericValue": 6.58,
+      "description": "暑い気候と夜間の社会活動により睡眠時間が短い",
+      "country": "エジプト",
+      "flag": "🇪🇬"
+    },
+    {
+      "rank": 8,
+      "name": "台湾",
+      "value": "6.62時間",
+      "numericValue": 6.62,
+      "description": "ハイテク産業の発達と長時間労働文化の影響",
+      "country": "台湾",
+      "flag": "🇹🇼"
+    },
+    {
+      "rank": 9,
+      "name": "インド",
+      "value": "6.65時間",
+      "numericValue": 6.65,
+      "description": "急速な経済成長と都市部の生活リズムの変化",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 10,
+      "name": "タイ",
+      "value": "6.68時間",
+      "numericValue": 6.68,
+      "description": "観光産業と夜間経済の発達により短い睡眠時間",
+      "country": "タイ",
+      "flag": "🇹🇭"
+    }
+  ]
+}

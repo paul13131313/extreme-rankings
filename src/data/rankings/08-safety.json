@@ -1,0 +1,103 @@
+{
+  "id": "safety",
+  "number": 8,
+  "question": "この世界で最も犯罪が少ない国",
+  "shortTitle": "安全な国",
+  "category": "安全",
+  "emoji": "🛡️",
+  "unit": "犯罪指数（低いほど安全）",
+  "source": "Numbeo Crime Index 2024, Global Peace Index",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "アイスランド",
+      "value": "13.4",
+      "numericValue": 13.4,
+      "description": "世界で最も安全な国として知られ、暴力犯罪率が極めて低い",
+      "country": "アイスランド",
+      "flag": "🇮🇸"
+    },
+    {
+      "rank": 2,
+      "name": "シンガポール",
+      "value": "16.8",
+      "numericValue": 16.8,
+      "description": "厳格な法執行により犯罪率が非常に低く抑制されている",
+      "country": "シンガポール",
+      "flag": "🇸🇬"
+    },
+    {
+      "rank": 3,
+      "name": "日本",
+      "value": "19.2",
+      "numericValue": 19.2,
+      "description": "低い殺人率と治安の良さで知られる安全な先進国",
+      "country": "日本",
+      "flag": "🇯🇵"
+    },
+    {
+      "rank": 4,
+      "name": "スイス",
+      "value": "20.1",
+      "numericValue": 20.1,
+      "description": "政治的安定と高い生活水準により犯罪率が低い",
+      "country": "スイス",
+      "flag": "🇨🇭"
+    },
+    {
+      "rank": 5,
+      "name": "ノルウェー",
+      "value": "22.3",
+      "numericValue": 22.3,
+      "description": "社会保障制度が充実し、暴力犯罪が非常に少ない",
+      "country": "ノルウェー",
+      "flag": "🇳🇴"
+    },
+    {
+      "rank": 6,
+      "name": "デンマーク",
+      "value": "23.7",
+      "numericValue": 23.7,
+      "description": "高い社会信頼度と効果的な犯罪予防政策により安全",
+      "country": "デンマーク",
+      "flag": "🇩🇰"
+    },
+    {
+      "rank": 7,
+      "name": "フィンランド",
+      "value": "24.5",
+      "numericValue": 24.5,
+      "description": "教育水準の高さと社会平等により犯罪率が低い",
+      "country": "フィンランド",
+      "flag": "🇫🇮"
+    },
+    {
+      "rank": 8,
+      "name": "オーストリア",
+      "value": "25.2",
+      "numericValue": 25.2,
+      "description": "安定した経済と効率的な法執行システムで治安を維持",
+      "country": "オーストリア",
+      "flag": "🇦🇹"
+    },
+    {
+      "rank": 9,
+      "name": "スウェーデン",
+      "value": "26.1",
+      "numericValue": 26.1,
+      "description": "包括的な社会保障制度により犯罪予防に成功している",
+      "country": "スウェーデン",
+      "flag": "🇸🇪"
+    },
+    {
+      "rank": 10,
+      "name": "オランダ",
+      "value": "27.3",
+      "numericValue": 27.3,
+      "description": "プログレッシブな刑事政策と高い社会結束により犯罪が少ない",
+      "country": "オランダ",
+      "flag": "🇳🇱"
+    }
+  ]
+}

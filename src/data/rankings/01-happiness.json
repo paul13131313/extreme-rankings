@@ -1,0 +1,103 @@
+{
+  "id": "happiness",
+  "number": 1,
+  "question": "この世界で最も多くの人の幸福に寄与している組織",
+  "shortTitle": "幸福に寄与する組織",
+  "category": "幸福",
+  "emoji": "😊",
+  "unit": "推定受益者数",
+  "source": "WHO年次報告書、WFP活動報告、各組織公式統計",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "世界保健機関（WHO）",
+      "value": "78億人",
+      "numericValue": 7800000000,
+      "description": "全人類の健康と幸福を守る国際機関として最大規模の貢献",
+      "country": "国際",
+      "flag": "🌍"
+    },
+    {
+      "rank": 2,
+      "name": "世界食糧計画（WFP）",
+      "value": "1億2800万人",
+      "numericValue": 128000000,
+      "description": "世界最大の人道支援機関として飢餓撲滅に貢献",
+      "country": "国際",
+      "flag": "🌾"
+    },
+    {
+      "rank": 3,
+      "name": "ユニセフ（UNICEF）",
+      "value": "1億9000万人",
+      "numericValue": 190000000,
+      "description": "世界中の子どもたちの権利と福祉を守る国際機関",
+      "country": "国際",
+      "flag": "👶"
+    },
+    {
+      "rank": 4,
+      "name": "国境なき医師団（MSF）",
+      "value": "2100万人",
+      "numericValue": 21000000,
+      "description": "紛争地域や災害地で医療支援を提供する国際NGO",
+      "country": "国際",
+      "flag": "⚕️"
+    },
+    {
+      "rank": 5,
+      "name": "赤十字国際委員会（ICRC）",
+      "value": "1億800万人",
+      "numericValue": 108000000,
+      "description": "戦争や武力紛争の被害者に人道支援を提供",
+      "country": "国際",
+      "flag": "🔴"
+    },
+    {
+      "rank": 6,
+      "name": "オックスファム",
+      "value": "2500万人",
+      "numericValue": 25000000,
+      "description": "貧困撲滅と不平等解消に取り組む国際NGO",
+      "country": "国際",
+      "flag": "🤝"
+    },
+    {
+      "rank": 7,
+      "name": "セーブ・ザ・チルドレン",
+      "value": "1億人",
+      "numericValue": 100000000,
+      "description": "世界の子どもたちの生活改善と教育支援を行う",
+      "country": "国際",
+      "flag": "💫"
+    },
+    {
+      "rank": 8,
+      "name": "グラミン銀行",
+      "value": "970万人",
+      "numericValue": 9700000,
+      "description": "マイクロクレジットで貧困層の経済的自立を支援",
+      "country": "バングラデシュ",
+      "flag": "🇧🇩"
+    },
+    {
+      "rank": 9,
+      "name": "ゲイツ財団",
+      "value": "3億人",
+      "numericValue": 300000000,
+      "description": "世界最大の慈善財団として健康・教育分野で貢献",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 10,
+      "name": "カリタス・インターナショナル",
+      "value": "2億人",
+      "numericValue": 200000000,
+      "description": "世界最大のカトリック系人道支援ネットワーク",
+      "country": "国際",
+      "flag": "⛪"
+    }
+  ]
+}

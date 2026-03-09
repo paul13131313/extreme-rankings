@@ -1,0 +1,103 @@
+{
+  "id": "extinction",
+  "number": 20,
+  "question": "この世界で最も絶滅危惧種が多い国",
+  "shortTitle": "絶滅危惧種大国",
+  "category": "絶滅",
+  "emoji": "🦏",
+  "unit": "絶滅危惧種数",
+  "source": "IUCN Red List 2024",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "エクアドル",
+      "value": "2,301種",
+      "numericValue": 2301,
+      "description": "アマゾン熱帯雨林とガラパゴス諸島を有する生物多様性のホットスポット",
+      "country": "エクアドル",
+      "flag": "🇪🇨"
+    },
+    {
+      "rank": 2,
+      "name": "アメリカ合衆国",
+      "value": "1,514種",
+      "numericValue": 1514,
+      "description": "広大な国土と多様な生態系を持つが開発による生息地破壊が深刻",
+      "country": "アメリカ合衆国",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 3,
+      "name": "マレーシア",
+      "value": "1,226種",
+      "numericValue": 1226,
+      "description": "ボルネオ島とマレー半島の熱帯雨林に多くの固有種が生息",
+      "country": "マレーシア",
+      "flag": "🇲🇾"
+    },
+    {
+      "rank": 4,
+      "name": "インドネシア",
+      "value": "1,206種",
+      "numericValue": 1206,
+      "description": "世界最大の島嶼国で森林伐採とパーム油産業が生態系を脅かす",
+      "country": "インドネシア",
+      "flag": "🇮🇩"
+    },
+    {
+      "rank": 5,
+      "name": "メキシコ",
+      "value": "665種",
+      "numericValue": 665,
+      "description": "北米と中米を繋ぐ地域で高い生物多様性を持つメガダイバース国",
+      "country": "メキシコ",
+      "flag": "🇲🇽"
+    },
+    {
+      "rank": 6,
+      "name": "中国",
+      "value": "598種",
+      "numericValue": 598,
+      "description": "急速な経済発展と環境汚染により多くの野生生物が危機に瀕している",
+      "country": "中国",
+      "flag": "🇨🇳"
+    },
+    {
+      "rank": 7,
+      "name": "ブラジル",
+      "value": "538種",
+      "numericValue": 538,
+      "description": "アマゾン熱帯雨林の森林破壊により多数の種が絶滅の危機",
+      "country": "ブラジル",
+      "flag": "🇧🇷"
+    },
+    {
+      "rank": 8,
+      "name": "ペルー",
+      "value": "507種",
+      "numericValue": 507,
+      "description": "アンデス山脈からアマゾンまで多様な生態系を有する生物多様性大国",
+      "country": "ペルー",
+      "flag": "🇵🇪"
+    },
+    {
+      "rank": 9,
+      "name": "オーストラリア",
+      "value": "506種",
+      "numericValue": 506,
+      "description": "独特な島嶼生態系を持つが山火事と外来種により固有種が危機",
+      "country": "オーストラリア",
+      "flag": "🇦🇺"
+    },
+    {
+      "rank": 10,
+      "name": "コロンビア",
+      "value": "540種",
+      "numericValue": 540,
+      "description": "南米北部の生物多様性ホットスポットで違法伐採が主な脅威",
+      "country": "コロンビア",
+      "flag": "🇨🇴"
+    }
+  ]
+}

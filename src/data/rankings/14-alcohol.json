@@ -1,0 +1,103 @@
+{
+  "id": "alcohol",
+  "number": 14,
+  "question": "この世界で最もアルコール消費量が多い国",
+  "shortTitle": "飲酒量の多い国",
+  "category": "依存",
+  "emoji": "🍺",
+  "unit": "1人あたり年間消費量（リットル）",
+  "source": "WHO Global Health Observatory, World Health Statistics 2023",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "モルドバ",
+      "value": "15.2リットル",
+      "numericValue": 15.2,
+      "description": "ワイン文化が根強く、極めて高い消費量を記録",
+      "country": "モルドバ",
+      "flag": "🇲🇩"
+    },
+    {
+      "rank": 2,
+      "name": "ロシア",
+      "value": "14.5リットル",
+      "numericValue": 14.5,
+      "description": "ウォッカを中心とした強いアルコール文化",
+      "country": "ロシア",
+      "flag": "🇷🇺"
+    },
+    {
+      "rank": 3,
+      "name": "ハンガリー",
+      "value": "13.3リットル",
+      "numericValue": 13.3,
+      "description": "ワインとパーリンカの伝統的消費",
+      "country": "ハンガリー",
+      "flag": "🇭🇺"
+    },
+    {
+      "rank": 4,
+      "name": "エストニア",
+      "value": "12.7リットル",
+      "numericValue": 12.7,
+      "description": "北欧の飲酒文化とビール消費が高水準",
+      "country": "エストニア",
+      "flag": "🇪🇪"
+    },
+    {
+      "rank": 5,
+      "name": "ラトビア",
+      "value": "12.4リットル",
+      "numericValue": 12.4,
+      "description": "バルト三国特有の高いアルコール消費傾向",
+      "country": "ラトビア",
+      "flag": "🇱🇻"
+    },
+    {
+      "rank": 6,
+      "name": "リトアニア",
+      "value": "12.1リットル",
+      "numericValue": 12.1,
+      "description": "ビールとウォッカが主要な消費アルコール",
+      "country": "リトアニア",
+      "flag": "🇱🇹"
+    },
+    {
+      "rank": 7,
+      "name": "ベラルーシ",
+      "value": "11.9リットル",
+      "numericValue": 11.9,
+      "description": "旧ソ連圏の伝統的な高アルコール消費",
+      "country": "ベラルーシ",
+      "flag": "🇧🇾"
+    },
+    {
+      "rank": 8,
+      "name": "アイルランド",
+      "value": "11.9リットル",
+      "numericValue": 11.9,
+      "description": "パブ文化とビール消費が国民的習慣",
+      "country": "アイルランド",
+      "flag": "🇮🇪"
+    },
+    {
+      "rank": 9,
+      "name": "チェコ",
+      "value": "11.8リットル",
+      "numericValue": 11.8,
+      "description": "世界最高水準のビール消費国として有名",
+      "country": "チェコ",
+      "flag": "🇨🇿"
+    },
+    {
+      "rank": 10,
+      "name": "ドイツ",
+      "value": "11.7リットル",
+      "numericValue": 11.7,
+      "description": "ビール文化とワイン生産地として高消費",
+      "country": "ドイツ",
+      "flag": "🇩🇪"
+    }
+  ]
+}

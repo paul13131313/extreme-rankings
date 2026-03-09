@@ -1,0 +1,103 @@
+{
+  "id": "calorie",
+  "number": 18,
+  "question": "この世界で最もカロリー摂取量が多い国",
+  "shortTitle": "カロリー大国",
+  "category": "食",
+  "emoji": "🍔",
+  "unit": "1人1日あたり摂取量（kcal）",
+  "source": "FAO (Food and Agriculture Organization of the United Nations)",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "アメリカ合衆国",
+      "value": "3,868 kcal/日",
+      "numericValue": 3868,
+      "description": "世界最高水準のカロリー摂取量。加工食品や高カロリー食品の消費が多い",
+      "country": "アメリカ合衆国",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 2,
+      "name": "オーストリア",
+      "value": "3,784 kcal/日",
+      "numericValue": 3784,
+      "description": "ヨーロッパで最も高いカロリー摂取量。肉類と乳製品の消費が豊富",
+      "country": "オーストリア",
+      "flag": "🇦🇹"
+    },
+    {
+      "rank": 3,
+      "name": "トルコ",
+      "value": "3,680 kcal/日",
+      "numericValue": 3680,
+      "description": "地中海料理と肉料理が豊富。パンやオリーブオイルの摂取量が多い",
+      "country": "トルコ",
+      "flag": "🇹🇷"
+    },
+    {
+      "rank": 4,
+      "name": "イスラエル",
+      "value": "3,600 kcal/日",
+      "numericValue": 3600,
+      "description": "多様な食文化の融合。乳製品と地中海食材の摂取量が高い",
+      "country": "イスラエル",
+      "flag": "🇮🇱"
+    },
+    {
+      "rank": 5,
+      "name": "ベルギー",
+      "value": "3,581 kcal/日",
+      "numericValue": 3581,
+      "description": "高品質な乳製品とチョコレート消費。ビールの摂取量も多い",
+      "country": "ベルギー",
+      "flag": "🇧🇪"
+    },
+    {
+      "rank": 6,
+      "name": "ドイツ",
+      "value": "3,540 kcal/日",
+      "numericValue": 3540,
+      "description": "肉類と穀物の摂取量が豊富。ビールとソーセージ文化が影響",
+      "country": "ドイツ",
+      "flag": "🇩🇪"
+    },
+    {
+      "rank": 7,
+      "name": "ルクセンブルク",
+      "value": "3,497 kcal/日",
+      "numericValue": 3497,
+      "description": "高所得による豊富な食事。フランス料理の影響を受けた高カロリー食",
+      "country": "ルクセンブルク",
+      "flag": "🇱🇺"
+    },
+    {
+      "rank": 8,
+      "name": "イタリア",
+      "value": "3,460 kcal/日",
+      "numericValue": 3460,
+      "description": "パスタとオリーブオイル中心の地中海食。チーズの消費量が多い",
+      "country": "イタリア",
+      "flag": "🇮🇹"
+    },
+    {
+      "rank": 9,
+      "name": "アイルランド",
+      "value": "3,440 kcal/日",
+      "numericValue": 3440,
+      "description": "乳製品と肉類の摂取量が豊富。ジャガイモ料理も多い",
+      "country": "アイルランド",
+      "flag": "🇮🇪"
+    },
+    {
+      "rank": 10,
+      "name": "フランス",
+      "value": "3,425 kcal/日",
+      "numericValue": 3425,
+      "description": "高品質な食材とワイン文化。チーズとパンの摂取量が多い",
+      "country": "フランス",
+      "flag": "🇫🇷"
+    }
+  ]
+}

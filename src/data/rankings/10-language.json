@@ -1,0 +1,103 @@
+{
+  "id": "language",
+  "number": 10,
+  "question": "この世界で最も消滅しそうな言語",
+  "shortTitle": "消滅危機言語",
+  "category": "言語",
+  "emoji": "📜",
+  "unit": "残存話者数",
+  "source": "UNESCO Atlas of the World's Languages in Danger, Ethnologue",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "タウシロ語（Taushiro）",
+      "value": "1人",
+      "numericValue": 1,
+      "description": "ペルーのアマゾンで話される言語、最後の話者アマドレオ・ガルシア氏のみ",
+      "country": "ペルー",
+      "flag": "🇵🇪"
+    },
+    {
+      "rank": 2,
+      "name": "サルディ語（Sarsi）",
+      "value": "3人",
+      "numericValue": 3,
+      "description": "カナダの先住民言語、高齢者のみが流暢に話す",
+      "country": "カナダ",
+      "flag": "🇨🇦"
+    },
+    {
+      "rank": 3,
+      "name": "アイヌ語",
+      "value": "5人",
+      "numericValue": 5,
+      "description": "日本の先住民言語、母語話者は極めて少数",
+      "country": "日本",
+      "flag": "🇯🇵"
+    },
+    {
+      "rank": 4,
+      "name": "チュルム語（Chulym）",
+      "value": "8人",
+      "numericValue": 8,
+      "description": "シベリアのテュルク系言語、高齢者のみが話す",
+      "country": "ロシア",
+      "flag": "🇷🇺"
+    },
+    {
+      "rank": 5,
+      "name": "ンコ語（N|uu）",
+      "value": "12人",
+      "numericValue": 12,
+      "description": "南アフリカのコサ系言語、クリック音を含む言語",
+      "country": "南アフリカ",
+      "flag": "🇿🇦"
+    },
+    {
+      "rank": 6,
+      "name": "イヌイト語ポーラー方言",
+      "value": "15人",
+      "numericValue": 15,
+      "description": "カナダ北極圏の方言、極地探検隊が記録",
+      "country": "カナダ",
+      "flag": "🇨🇦"
+    },
+    {
+      "rank": 7,
+      "name": "ヴォロ語（Voro）",
+      "value": "25人",
+      "numericValue": 25,
+      "description": "エストニア南部の言語、エストニア語に近い",
+      "country": "エストニア",
+      "flag": "🇪🇪"
+    },
+    {
+      "rank": 8,
+      "name": "アカ・ボ語（Aka-Bo）",
+      "value": "30人",
+      "numericValue": 30,
+      "description": "アンダマン諸島の言語、インド洋の孤立語族",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 9,
+      "name": "チャメアリ語（Chamealí）",
+      "value": "45人",
+      "numericValue": 45,
+      "description": "メキシコの先住民言語、高齢者中心の話者",
+      "country": "メキシコ",
+      "flag": "🇲🇽"
+    },
+    {
+      "rank": 10,
+      "name": "ジェダ語（Jedek）",
+      "value": "60人",
+      "numericValue": 60,
+      "description": "マレーシア半島部の最近発見された言語",
+      "country": "マレーシア",
+      "flag": "🇲🇾"
+    }
+  ]
+}

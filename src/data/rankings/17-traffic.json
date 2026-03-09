@@ -1,0 +1,103 @@
+{
+  "id": "traffic",
+  "number": 17,
+  "question": "この世界で最も渋滞がひどい都市",
+  "shortTitle": "渋滞都市",
+  "category": "渋滞",
+  "emoji": "🚗",
+  "unit": "年間渋滞時間（時間）",
+  "source": "TomTom Traffic Index 2024",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "イスタンブール",
+      "value": "103時間",
+      "numericValue": 103,
+      "description": "ボスポラス海峡を挟む地理的制約と急速な人口増加が原因",
+      "country": "トルコ",
+      "flag": "🇹🇷"
+    },
+    {
+      "rank": 2,
+      "name": "ムンバイ",
+      "value": "101時間",
+      "numericValue": 101,
+      "description": "狭い半島に集中する人口と不十分な道路インフラ",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 3,
+      "name": "ボゴタ",
+      "value": "88時間",
+      "numericValue": 88,
+      "description": "標高2600mの高地都市で限られた道路網",
+      "country": "コロンビア",
+      "flag": "🇨🇴"
+    },
+    {
+      "rank": 4,
+      "name": "リマ",
+      "value": "85時間",
+      "numericValue": 85,
+      "description": "太平洋沿岸の砂漠地帯に広がる1000万人都市",
+      "country": "ペルー",
+      "flag": "🇵🇪"
+    },
+    {
+      "rank": 5,
+      "name": "ニューデリー",
+      "value": "79時間",
+      "numericValue": 79,
+      "description": "急速な都市化と大気汚染による交通規制の影響",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 6,
+      "name": "モスクワ",
+      "value": "76時間",
+      "numericValue": 76,
+      "description": "放射状道路網と厳しい冬季気候による交通集中",
+      "country": "ロシア",
+      "flag": "🇷🇺"
+    },
+    {
+      "rank": 7,
+      "name": "ジャカルタ",
+      "value": "71時間",
+      "numericValue": 71,
+      "description": "東南アジア最大級のメガロポリスで慢性的渋滞",
+      "country": "インドネシア",
+      "flag": "🇮🇩"
+    },
+    {
+      "rank": 8,
+      "name": "バンコク",
+      "value": "66時間",
+      "numericValue": 66,
+      "description": "運河を埋め立てた道路網と急激なモータリゼーション",
+      "country": "タイ",
+      "flag": "🇹🇭"
+    },
+    {
+      "rank": 9,
+      "name": "マニラ",
+      "value": "62時間",
+      "numericValue": 62,
+      "description": "島嶼部の地理的制約と公共交通機関の不足",
+      "country": "フィリピン",
+      "flag": "🇵🇭"
+    },
+    {
+      "rank": 10,
+      "name": "ナイロビ",
+      "value": "58時間",
+      "numericValue": 58,
+      "description": "急速な人口増加に道路整備が追いつかない状況",
+      "country": "ケニア",
+      "flag": "🇰🇪"
+    }
+  ]
+}

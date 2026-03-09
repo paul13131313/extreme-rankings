@@ -1,0 +1,103 @@
+{
+  "id": "building",
+  "number": 13,
+  "question": "この世界で最も高い建物",
+  "shortTitle": "超高層建築",
+  "category": "建築",
+  "emoji": "🏗️",
+  "unit": "高さ（m）",
+  "source": "Council on Tall Buildings and Urban Habitat (CTBUH)",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "ブルジュ・ハリファ",
+      "value": "828m",
+      "numericValue": 828,
+      "description": "ドバイにある世界一高い超高層ビル、163階建て",
+      "country": "アラブ首長国連邦",
+      "flag": "🇦🇪"
+    },
+    {
+      "rank": 2,
+      "name": "マルディーブ・ファイナンスタワー",
+      "value": "828m",
+      "numericValue": 828,
+      "description": "建設中の超高層ビル、完成予定2025年",
+      "country": "マレーシア",
+      "flag": "🇲🇾"
+    },
+    {
+      "rank": 3,
+      "name": "上海タワー",
+      "value": "632m",
+      "numericValue": 632,
+      "description": "上海にある中国最高層ビル、128階建て",
+      "country": "中国",
+      "flag": "🇨🇳"
+    },
+    {
+      "rank": 4,
+      "name": "アブラージュ・アル・ベイト・クロックタワー",
+      "value": "601m",
+      "numericValue": 601,
+      "description": "メッカにある時計塔付き複合施設、120階建て",
+      "country": "サウジアラビア",
+      "flag": "🇸🇦"
+    },
+    {
+      "rank": 5,
+      "name": "平安ファイナンスセンター",
+      "value": "599m",
+      "numericValue": 599,
+      "description": "深圳にある超高層オフィスビル、115階建て",
+      "country": "中国",
+      "flag": "🇨🇳"
+    },
+    {
+      "rank": 6,
+      "name": "ロッテワールドタワー",
+      "value": "555m",
+      "numericValue": 555,
+      "description": "ソウルにある韓国最高層ビル、123階建て",
+      "country": "韓国",
+      "flag": "🇰🇷"
+    },
+    {
+      "rank": 7,
+      "name": "ワン・ワールド・トレードセンター",
+      "value": "541m",
+      "numericValue": 541,
+      "description": "ニューヨークのグラウンドゼロに建つ記念的建物",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 8,
+      "name": "広州CTFファイナンスセンター",
+      "value": "530m",
+      "numericValue": 530,
+      "description": "広州にある複合用途超高層ビル、111階建て",
+      "country": "中国",
+      "flag": "🇨🇳"
+    },
+    {
+      "rank": 9,
+      "name": "天津CTFファイナンスセンター",
+      "value": "530m",
+      "numericValue": 530,
+      "description": "天津にあるオフィス・住宅複合ビル、97階建て",
+      "country": "中国",
+      "flag": "🇨🇳"
+    },
+    {
+      "rank": 10,
+      "name": "中国尊",
+      "value": "528m",
+      "numericValue": 528,
+      "description": "北京にある超高層オフィスビル、109階建て",
+      "country": "中国",
+      "flag": "🇨🇳"
+    }
+  ]
+}

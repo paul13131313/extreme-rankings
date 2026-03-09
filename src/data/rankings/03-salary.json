@@ -1,0 +1,103 @@
+{
+  "id": "salary",
+  "number": 3,
+  "question": "この世界で最も平均年収の高い企業",
+  "shortTitle": "高年収企業",
+  "category": "金持ち",
+  "emoji": "💰",
+  "unit": "平均年収（USD）",
+  "source": "Glassdoor, Levels.fyi, Bloomberg",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "ヘッジファンド（Two Sigma）",
+      "value": "$435,000",
+      "numericValue": 435000,
+      "description": "量的投資戦略で知られるアメリカのヘッジファンド",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 2,
+      "name": "Citadel Securities",
+      "value": "$415,000",
+      "numericValue": 415000,
+      "description": "高頻度取引とマーケットメイキングの大手企業",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 3,
+      "name": "Jane Street",
+      "value": "$395,000",
+      "numericValue": 395000,
+      "description": "定量的取引に特化した投資会社",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 4,
+      "name": "Renaissance Technologies",
+      "value": "$375,000",
+      "numericValue": 375000,
+      "description": "数学者が設立した伝説的なヘッジファンド",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 5,
+      "name": "Google（Alphabet）",
+      "value": "$295,000",
+      "numericValue": 295000,
+      "description": "世界最大級のテック企業でエンジニア年収が高額",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 6,
+      "name": "Meta（旧Facebook）",
+      "value": "$285,000",
+      "numericValue": 285000,
+      "description": "SNSとメタバース事業で高い技術者報酬を提供",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 7,
+      "name": "Netflix",
+      "value": "$275,000",
+      "numericValue": 275000,
+      "description": "ストリーミング大手で高額な報酬体系で有名",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 8,
+      "name": "Apple",
+      "value": "$265,000",
+      "numericValue": 265000,
+      "description": "世界最大の時価総額企業で技術者への高待遇",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 9,
+      "name": "Microsoft",
+      "value": "$255,000",
+      "numericValue": 255000,
+      "description": "クラウドとソフトウェア分野で高い年収を支給",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 10,
+      "name": "Goldman Sachs",
+      "value": "$240,000",
+      "numericValue": 240000,
+      "description": "投資銀行業界のトップティアで高額ボーナス",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "loneliness",
+  "number": 16,
+  "question": "この世界で最も一人暮らし率が高い国",
+  "shortTitle": "一人暮らし大国",
+  "category": "孤独",
+  "emoji": "🏠",
+  "unit": "一人暮らし世帯割合（%）",
+  "source": "OECD統計・各国国勢調査",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "フィンランド",
+      "value": "41.0%",
+      "numericValue": 41,
+      "description": "北欧の個人主義文化と高い生活水準により一人暮らしが一般的",
+      "country": "フィンランド",
+      "flag": "🇫🇮"
+    },
+    {
+      "rank": 2,
+      "name": "ノルウェー",
+      "value": "40.5%",
+      "numericValue": 40.5,
+      "description": "豊かな社会保障制度で独立した生活を選択する人が多い",
+      "country": "ノルウェー",
+      "flag": "🇳🇴"
+    },
+    {
+      "rank": 3,
+      "name": "デンマーク",
+      "value": "39.8%",
+      "numericValue": 39.8,
+      "description": "高い所得水準と個人の自立を重視する文化的背景",
+      "country": "デンマーク",
+      "flag": "🇩🇰"
+    },
+    {
+      "rank": 4,
+      "name": "スウェーデン",
+      "value": "38.9%",
+      "numericValue": 38.9,
+      "description": "ジェンダー平等先進国で男女ともに独立した生活スタイル",
+      "country": "スウェーデン",
+      "flag": "🇸🇪"
+    },
+    {
+      "rank": 5,
+      "name": "ドイツ",
+      "value": "37.2%",
+      "numericValue": 37.2,
+      "description": "都市部での単身世帯増加と晩婚化の進行が影響",
+      "country": "ドイツ",
+      "flag": "🇩🇪"
+    },
+    {
+      "rank": 6,
+      "name": "日本",
+      "value": "35.6%",
+      "numericValue": 35.6,
+      "description": "少子高齢化と未婚率上昇により単身世帯が急増",
+      "country": "日本",
+      "flag": "🇯🇵"
+    },
+    {
+      "rank": 7,
+      "name": "韓国",
+      "value": "33.4%",
+      "numericValue": 33.4,
+      "description": "急速な都市化と個人主義の浸透で一人暮らしが増加",
+      "country": "韓国",
+      "flag": "🇰🇷"
+    },
+    {
+      "rank": 8,
+      "name": "フランス",
+      "value": "32.8%",
+      "numericValue": 32.8,
+      "description": "都市部の若年層と高齢者の単身世帯が全体を押し上げ",
+      "country": "フランス",
+      "flag": "🇫🇷"
+    },
+    {
+      "rank": 9,
+      "name": "オーストリア",
+      "value": "32.1%",
+      "numericValue": 32.1,
+      "description": "経済的安定と個人のライフスタイル重視の傾向",
+      "country": "オーストリア",
+      "flag": "🇦🇹"
+    },
+    {
+      "rank": 10,
+      "name": "オランダ",
+      "value": "31.5%",
+      "numericValue": 31.5,
+      "description": "都市部の住宅事情と若年層の独立志向が背景",
+      "country": "オランダ",
+      "flag": "🇳🇱"
+    }
+  ]
+}

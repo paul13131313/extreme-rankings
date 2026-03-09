@@ -1,0 +1,103 @@
+{
+  "id": "danger",
+  "number": 2,
+  "question": "この世界で最も死亡率の高い職業",
+  "shortTitle": "危険な職業",
+  "category": "危険",
+  "emoji": "💀",
+  "unit": "10万人あたり死亡者数",
+  "source": "米国労働統計局・国際労働機関(ILO)",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "漁業従事者",
+      "value": "117人/10万人",
+      "numericValue": 117,
+      "description": "海難事故や悪天候による危険性が極めて高い職業",
+      "country": "国際",
+      "flag": "🎣"
+    },
+    {
+      "rank": 2,
+      "name": "林業作業者",
+      "value": "111人/10万人",
+      "numericValue": 111,
+      "description": "伐採作業中の樹木倒壊や機械事故が多発",
+      "country": "国際",
+      "flag": "🌲"
+    },
+    {
+      "rank": 3,
+      "name": "航空機操縦士",
+      "value": "53人/10万人",
+      "numericValue": 53,
+      "description": "小型機パイロットの墜落事故リスクが特に高い",
+      "country": "国際",
+      "flag": "✈️"
+    },
+    {
+      "rank": 4,
+      "name": "屋根工事作業者",
+      "value": "48人/10万人",
+      "numericValue": 48,
+      "description": "高所作業による墜落事故が主な死因",
+      "country": "国際",
+      "flag": "🏠"
+    },
+    {
+      "rank": 5,
+      "name": "鉄鋼作業員",
+      "value": "37人/10万人",
+      "numericValue": 37,
+      "description": "高温溶鉱炉や重機による労災事故が頻発",
+      "country": "国際",
+      "flag": "🏭"
+    },
+    {
+      "rank": 6,
+      "name": "ゴミ収集作業員",
+      "value": "34人/10万人",
+      "numericValue": 34,
+      "description": "交通事故や有害物質による健康被害が主因",
+      "country": "国際",
+      "flag": "🗑️"
+    },
+    {
+      "rank": 7,
+      "name": "トラック運転手",
+      "value": "26人/10万人",
+      "numericValue": 26,
+      "description": "長距離輸送中の交通事故や過労運転が原因",
+      "country": "国際",
+      "flag": "🚛"
+    },
+    {
+      "rank": 8,
+      "name": "農業従事者",
+      "value": "23人/10万人",
+      "numericValue": 23,
+      "description": "農機具事故や農薬による中毒事故が発生",
+      "country": "国際",
+      "flag": "🚜"
+    },
+    {
+      "rank": 9,
+      "name": "建設作業員",
+      "value": "18人/10万人",
+      "numericValue": 18,
+      "description": "足場からの転落や重機に巻き込まれる事故",
+      "country": "国際",
+      "flag": "👷"
+    },
+    {
+      "rank": 10,
+      "name": "警察官",
+      "value": "14人/10万人",
+      "numericValue": 14,
+      "description": "犯罪者との接触や緊急車両運転中の事故",
+      "country": "国際",
+      "flag": "👮"
+    }
+  ]
+}

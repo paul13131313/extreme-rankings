@@ -1,0 +1,103 @@
+{
+  "id": "labor",
+  "number": 19,
+  "question": "この世界で最も労働時間が長い国",
+  "shortTitle": "長時間労働国",
+  "category": "労働",
+  "emoji": "⏰",
+  "unit": "年間平均労働時間",
+  "source": "OECD統計データベース",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "メキシコ",
+      "value": "2,124時間",
+      "numericValue": 2124,
+      "description": "OECD加盟国中で最も長い労働時間を記録",
+      "country": "メキシコ",
+      "flag": "🇲🇽"
+    },
+    {
+      "rank": 2,
+      "name": "コスタリカ",
+      "value": "2,073時間",
+      "numericValue": 2073,
+      "description": "中米諸国の中でも特に長時間労働が常態化",
+      "country": "コスタリカ",
+      "flag": "🇨🇷"
+    },
+    {
+      "rank": 3,
+      "name": "韓国",
+      "value": "1,915時間",
+      "numericValue": 1915,
+      "description": "アジア圏では最も長い労働時間、近年は減少傾向",
+      "country": "韓国",
+      "flag": "🇰🇷"
+    },
+    {
+      "rank": 4,
+      "name": "チリ",
+      "value": "1,892時間",
+      "numericValue": 1892,
+      "description": "南米の経済大国、製造業と鉱業で長時間労働",
+      "country": "チリ",
+      "flag": "🇨🇱"
+    },
+    {
+      "rank": 5,
+      "name": "ギリシャ",
+      "value": "1,872時間",
+      "numericValue": 1872,
+      "description": "経済危機以降、労働時間の長期化が続く",
+      "country": "ギリシャ",
+      "flag": "🇬🇷"
+    },
+    {
+      "rank": 6,
+      "name": "ロシア",
+      "value": "1,874時間",
+      "numericValue": 1874,
+      "description": "製造業と資源産業で長時間労働が一般的",
+      "country": "ロシア",
+      "flag": "🇷🇺"
+    },
+    {
+      "rank": 7,
+      "name": "ポーランド",
+      "value": "1,792時間",
+      "numericValue": 1792,
+      "description": "東欧の中では比較的長い労働時間を維持",
+      "country": "ポーランド",
+      "flag": "🇵🇱"
+    },
+    {
+      "rank": 8,
+      "name": "アメリカ",
+      "value": "1,767時間",
+      "numericValue": 1767,
+      "description": "先進国の中では長時間労働、有給休暇取得率も低い",
+      "country": "アメリカ",
+      "flag": "🇺🇸"
+    },
+    {
+      "rank": 9,
+      "name": "日本",
+      "value": "1,607時間",
+      "numericValue": 1607,
+      "description": "働き方改革により近年は労働時間が減少傾向",
+      "country": "日本",
+      "flag": "🇯🇵"
+    },
+    {
+      "rank": 10,
+      "name": "イタリア",
+      "value": "1,669時間",
+      "numericValue": 1669,
+      "description": "南欧諸国の中では標準的な労働時間",
+      "country": "イタリア",
+      "flag": "🇮🇹"
+    }
+  ]
+}

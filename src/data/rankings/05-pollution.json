@@ -1,0 +1,103 @@
+{
+  "id": "pollution",
+  "number": 5,
+  "question": "この世界で最も空気の汚い都市",
+  "shortTitle": "大気汚染都市",
+  "category": "環境",
+  "emoji": "🏭",
+  "unit": "PM2.5年間平均（μg/m³）",
+  "source": "WHO Global Air Quality Database, IQAir World Air Quality Report",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "デリー",
+      "value": "110.2 μg/m³",
+      "numericValue": 110.2,
+      "description": "インド首都圏、自動車排気ガスと工場排出物が深刻",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 2,
+      "name": "ダッカ",
+      "value": "78.1 μg/m³",
+      "numericValue": 78.1,
+      "description": "バングラデシュ首都、建設ブームと車両増加が影響",
+      "country": "バングラデシュ",
+      "flag": "🇧🇩"
+    },
+    {
+      "rank": 3,
+      "name": "ウランバートル",
+      "value": "62.9 μg/m³",
+      "numericValue": 62.9,
+      "description": "モンゴル首都、石炭暖房と地理的条件が悪化要因",
+      "country": "モンゴル",
+      "flag": "🇲🇳"
+    },
+    {
+      "rank": 4,
+      "name": "ムンバイ",
+      "value": "58.6 μg/m³",
+      "numericValue": 58.6,
+      "description": "インド金融都市、交通渋滞と工業活動が大気汚染の原因",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 5,
+      "name": "ベイジン（北京）",
+      "value": "56.4 μg/m³",
+      "numericValue": 56.4,
+      "description": "中国首都、石炭利用と砂嵐の影響で汚染レベル高",
+      "country": "中国",
+      "flag": "🇨🇳"
+    },
+    {
+      "rank": 6,
+      "name": "ラホール",
+      "value": "51.8 μg/m³",
+      "numericValue": 51.8,
+      "description": "パキスタン第二都市、農業廃棄物燃焼と交通が主因",
+      "country": "パキスタン",
+      "flag": "🇵🇰"
+    },
+    {
+      "rank": 7,
+      "name": "チェンナイ",
+      "value": "45.9 μg/m³",
+      "numericValue": 45.9,
+      "description": "インド南部大都市、自動車排気と工業排出が問題",
+      "country": "インド",
+      "flag": "🇮🇳"
+    },
+    {
+      "rank": 8,
+      "name": "ホーチミン",
+      "value": "41.3 μg/m³",
+      "numericValue": 41.3,
+      "description": "ベトナム最大都市、バイク排気ガスと建設粉塵が影響",
+      "country": "ベトナム",
+      "flag": "🇻🇳"
+    },
+    {
+      "rank": 9,
+      "name": "ジャカルタ",
+      "value": "39.7 μg/m³",
+      "numericValue": 39.7,
+      "description": "インドネシア首都、交通渋滞と工業地帯の排出が要因",
+      "country": "インドネシア",
+      "flag": "🇮🇩"
+    },
+    {
+      "rank": 10,
+      "name": "カラチ",
+      "value": "36.2 μg/m³",
+      "numericValue": 36.2,
+      "description": "パキスタン最大都市、車両排気と工業活動による汚染",
+      "country": "パキスタン",
+      "flag": "🇵🇰"
+    }
+  ]
+}

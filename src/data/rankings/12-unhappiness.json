@@ -1,0 +1,103 @@
+{
+  "id": "unhappiness",
+  "number": 12,
+  "question": "この世界で最も幸福度が低い国",
+  "shortTitle": "不幸な国",
+  "category": "不幸",
+  "emoji": "😞",
+  "unit": "世界幸福度スコア",
+  "source": "World Happiness Report 2024 (UN Sustainable Development Solutions Network)",
+  "lastUpdated": "2024",
+  "items": [
+    {
+      "rank": 1,
+      "name": "アフガニスタン",
+      "value": "1.859",
+      "numericValue": 1.859,
+      "description": "内戦・経済危機・政治的混乱により極度の困難な状況",
+      "country": "アフガニスタン",
+      "flag": "🇦🇫"
+    },
+    {
+      "rank": 2,
+      "name": "レバノン",
+      "value": "2.392",
+      "numericValue": 2.392,
+      "description": "経済危機・政治的不安定・社会インフラの破綻",
+      "country": "レバノン",
+      "flag": "🇱🇧"
+    },
+    {
+      "rank": 3,
+      "name": "シエラレオネ",
+      "value": "2.438",
+      "numericValue": 2.438,
+      "description": "極度の貧困・医療体制の不備・教育機会の不足",
+      "country": "シエラレオネ",
+      "flag": "🇸🇱"
+    },
+    {
+      "rank": 4,
+      "name": "ジンバブエ",
+      "value": "2.995",
+      "numericValue": 2.995,
+      "description": "経済危機・高インフレ・政治的弾圧による生活困窮",
+      "country": "ジンバブエ",
+      "flag": "🇿🇼"
+    },
+    {
+      "rank": 5,
+      "name": "コンゴ民主共和国",
+      "value": "3.207",
+      "numericValue": 3.207,
+      "description": "紛争・極度の貧困・政治的不安定による社会混乱",
+      "country": "コンゴ民主共和国",
+      "flag": "🇨🇩"
+    },
+    {
+      "rank": 6,
+      "name": "ボツワナ",
+      "value": "3.471",
+      "numericValue": 3.471,
+      "description": "HIV感染率の高さ・失業率上昇による社会問題",
+      "country": "ボツワナ",
+      "flag": "🇧🇼"
+    },
+    {
+      "rank": 7,
+      "name": "マラウイ",
+      "value": "3.750",
+      "numericValue": 3.75,
+      "description": "食料不安・貧困率の高さ・自然災害による困窮",
+      "country": "マラウイ",
+      "flag": "🇲🇼"
+    },
+    {
+      "rank": 8,
+      "name": "エスワティニ",
+      "value": "3.889",
+      "numericValue": 3.889,
+      "description": "HIV感染率世界最高・経済格差・専制政治への不満",
+      "country": "エスワティニ",
+      "flag": "🇸🇿"
+    },
+    {
+      "rank": 9,
+      "name": "タンザニア",
+      "value": "3.702",
+      "numericValue": 3.702,
+      "description": "貧困・教育機会不足・医療アクセスの困難",
+      "country": "タンザニア",
+      "flag": "🇹🇿"
+    },
+    {
+      "rank": 10,
+      "name": "ヨルダン",
+      "value": "4.152",
+      "numericValue": 4.152,
+      "description": "難民問題・経済困窮・高失業率による社会的ストレス",
+      "country": "ヨルダン",
+      "flag": "🇯🇴"
+    }
+  ]
+}

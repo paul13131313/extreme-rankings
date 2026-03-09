@@ -1,0 +1,103 @@
+{
+  "id": "coffee",
+  "number": 9,
+  "question": "この世界で最もコーヒーを飲む国",
+  "shortTitle": "コーヒー消費国",
+  "category": "嗜好",
+  "emoji": "☕",
+  "unit": "1人あたり年間消費量（kg）",
+  "source": "International Coffee Organization (ICO)",
+  "lastUpdated": "2025",
+  "items": [
+    {
+      "rank": 1,
+      "name": "フィンランド",
+      "value": "12.0kg",
+      "numericValue": 12,
+      "description": "世界最大のコーヒー消費国、厳しい冬の気候が影響",
+      "country": "フィンランド",
+      "flag": "🇫🇮"
+    },
+    {
+      "rank": 2,
+      "name": "ノルウェー",
+      "value": "9.9kg",
+      "numericValue": 9.9,
+      "description": "北欧の伝統的なコーヒー文化、品質重視",
+      "country": "ノルウェー",
+      "flag": "🇳🇴"
+    },
+    {
+      "rank": 3,
+      "name": "アイスランド",
+      "value": "9.0kg",
+      "numericValue": 9,
+      "description": "極寒の気候とコーヒーハウス文化が結合",
+      "country": "アイスランド",
+      "flag": "🇮🇸"
+    },
+    {
+      "rank": 4,
+      "name": "デンマーク",
+      "value": "8.7kg",
+      "numericValue": 8.7,
+      "description": "ヒュッゲ文化の一環、高品質コーヒー好み",
+      "country": "デンマーク",
+      "flag": "🇩🇰"
+    },
+    {
+      "rank": 5,
+      "name": "オランダ",
+      "value": "8.4kg",
+      "numericValue": 8.4,
+      "description": "コーヒーハウス発祥地の一つ、朝食文化に根ざす",
+      "country": "オランダ",
+      "flag": "🇳🇱"
+    },
+    {
+      "rank": 6,
+      "name": "スウェーデン",
+      "value": "8.2kg",
+      "numericValue": 8.2,
+      "description": "フィーカ文化、コーヒーブレイクが社会制度化",
+      "country": "スウェーデン",
+      "flag": "🇸🇪"
+    },
+    {
+      "rank": 7,
+      "name": "スイス",
+      "value": "7.9kg",
+      "numericValue": 7.9,
+      "description": "高品質志向、エスプレッソ文化も浸透",
+      "country": "スイス",
+      "flag": "🇨🇭"
+    },
+    {
+      "rank": 8,
+      "name": "ベルギー",
+      "value": "6.8kg",
+      "numericValue": 6.8,
+      "description": "カフェ文化が発達、チョコレートとの組み合わせ",
+      "country": "ベルギー",
+      "flag": "🇧🇪"
+    },
+    {
+      "rank": 9,
+      "name": "ルクセンブルク",
+      "value": "6.5kg",
+      "numericValue": 6.5,
+      "description": "国際的環境、多様なコーヒー文化が混在",
+      "country": "ルクセンブルク",
+      "flag": "🇱🇺"
+    },
+    {
+      "rank": 10,
+      "name": "カナダ",
+      "value": "6.2kg",
+      "numericValue": 6.2,
+      "description": "寒冷気候とティムホートンズなどのチェーン普及",
+      "country": "カナダ",
+      "flag": "🇨🇦"
+    }
+  ]
+}
